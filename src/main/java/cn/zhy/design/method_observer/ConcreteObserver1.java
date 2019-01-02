@@ -1,4 +1,4 @@
-package cn.zhy.design.method_build;
+package cn.zhy.design.method_observer;
 
 public class ConcreteObserver1 extends Observe{
     private String name ;

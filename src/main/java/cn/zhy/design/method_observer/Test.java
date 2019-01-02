@@ -1,4 +1,4 @@
-package cn.zhy.design.method_build;
+package cn.zhy.design.method_observer;
 
 public class Test {
     public static void main(String[] args) {
